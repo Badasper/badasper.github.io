@@ -182,8 +182,8 @@ textarea.form-control {
 
 .site-hero {
   background-size: cover;
-  height: 100vh;
-  min-height: 700px;
+  height: 20vh;
+  min-height: 400px;
   background-position: center center;
   width: 100%;
   position: relative;
@@ -193,8 +193,8 @@ textarea.form-control {
   background: rgba(0, 0, 0, 0.15);
   content: "";
   position: absolute;
-  height: 100vh;
-  min-height: 700px;
+  height: 20vh;
+  min-height: 400px;
   top: 0;
   left: 0;
   bottom: 0;
@@ -202,8 +202,8 @@ textarea.form-control {
 }
 
 .site-hero-inner {
-  height: 100vh;
-  min-height: 700px;
+  height: 20vh;
+  min-height: 400px;
 }
 
 .site-hero-inner .heading {
